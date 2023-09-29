@@ -1,0 +1,7 @@
+MODE: dev
+PROJECT_NAME: Gurucool
+SERVER_NAME: Xano_Gurucool
+
+PROTOCOL: https
+BACKEND_HOST: https://x8ki-letl-twmt.n7.xano.io
+API: /api/
